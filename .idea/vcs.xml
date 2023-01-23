@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Angular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Angular/Garanzie-Anag-UI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Garanzie-MS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prova git" vcs="Git" />
+  </component>
+</project>

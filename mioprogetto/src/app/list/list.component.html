@@ -1,0 +1,20 @@
+<table>
+  <thead>
+    <tr>
+      <th>Associa</th>
+      <th>Username</th>
+      <th>Nome</th>
+      <th>Cognome</th>
+      <th>email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let user of users">
+      <td><input type="checkbox" value="user[0]"></td>
+      <td>{{user[1].username}}</td>
+      <td>{{user[1].nome}}</td>
+      <td>{{user[1].cognome}}</td>
+      <td>{{user[1].email}}</td>
+    </tr>
+  </tbody>
+</table>

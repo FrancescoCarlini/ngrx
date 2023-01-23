@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5ddbec5-e6e1-4b25-8239-57e8f8ad6cb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Angular/Garanzie-Anag-UI/src/main/angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Angular/Garanzie-Anag-UI/src/main/angular/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Angular/Garanzie-Anag-UI/src/main/angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Angular/Garanzie-Anag-UI/src/main/angular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Angular/Garanzie-Anag-UI/src/main/angular/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Angular/Garanzie-Anag-UI/src/main/angular/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Angular/Garanzie-Anag-UI/src/main/angular/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Angular/Garanzie-Anag-UI/src/main/angular/src/app/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Angular/Garanzie-Anag-UI/src/main/angular/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Angular/Garanzie-Anag-UI/src/main/angular/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Garanzie-MS/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Garanzie-MS/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Angular" />
+  </component>
+  <component name="ProjectId" id="1aa6KaNiYe9lCxsBvvdFZNrzj0L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Garanzie-MS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5ddbec5-e6e1-4b25-8239-57e8f8ad6cb9" name="Default Changelist" comment="" />
+      <created>1586961295345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586961295345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586961415036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586961415036" />
+  </component>
+</project>
